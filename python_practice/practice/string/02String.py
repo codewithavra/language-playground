@@ -1,0 +1,11 @@
+name = input("Enter your name ")
+age = input("Enter your age " )
+school = input("Enter your school name ")
+fathers_name = input("Enter your father's name ")
+mothers_name = input("Enter your mother's name ")
+
+print("My name is", name)
+print("My age is", age)
+print("My school is", school)
+print("My father's name is", fathers_name)
+print("My mother's name is", mothers_name)
